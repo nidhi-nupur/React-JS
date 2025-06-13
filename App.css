@@ -36,16 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.row {
-  width: 100%;
-  display: flex;
-}
-
-.cardItems {
-  background-color: aliceblue;
-  flex-basis: 20%;
-  height: 200px;
-  display: flex;
-  flex-direction: row;
-}
